@@ -1,0 +1,16 @@
+.Botoes {
+    background: rgb(0, 255, 242);
+}
+
+.Botoes span {
+    font-size: 20px;
+    color: rgb(140, 0, 255);
+    font-family: 'Times New Roman', Times;
+}
+
+.Botoes button {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times;
+    background: rgba(192, 50, 205, 0.24);
+}
